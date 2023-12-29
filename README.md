@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Seungheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungheonL&show_icons=true&theme=radical)
+![Seungheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheonL&show_icons=true&theme=radical)
 
 <!--
 **seungheonL/SeungheonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
