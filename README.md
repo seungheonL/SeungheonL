@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/?username=seungheonL&locale=kr&theme=dark&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&card_width=440&custom_title=Seungheon의+깃허브+통계&bg_color=60,065f46,00666b,00699f,0065cd,1d4ed8&title_color=fff&text_color=fff" />
+![Seungheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheonL&show_icons=true&theme=radical)
 
 <!--
 **seungheonL/SeungheonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
